@@ -1,7 +1,7 @@
 # sudoku.solver
 This simple Sudoku.Solver will solve any difficult Sudoku puzzel. It will look for alternative solutions as well.
 
-![image](Screen_Shot0.png | width=250)
+<img src="Screen_Shot0.png" width="880" />
 
 Once the solver is build, next step was to build a GUI so that the user can input any puzzel and solve it. QtDesigner was used to build the GUI and pyuic was used to translate to python code.
 
